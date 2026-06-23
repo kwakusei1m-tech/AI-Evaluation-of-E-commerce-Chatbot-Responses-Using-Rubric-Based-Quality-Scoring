@@ -1,0 +1,1 @@
+dataset,record_id,prompt,intent,category,tags,ai_response,accuracy_score,relevance_score,completeness_score,consistency_score,business_usefulness_score,clarity_score,error_types,edge_case_flag,decision_summary,score_justification,improvement_recommendation,overall_score

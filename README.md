@@ -1,0 +1,2 @@
+# AI-Evaluation-of-E-commerce-Chatbot-Responses-Using-Rubric-Based-Quality-Scoring
+AI evaluation capstone project assessing chatbot response quality in a retail and e-commerce context. The project applies rubric-based scoring, error taxonomy classification, and targeted manual review to identify performance gaps and generate actionable insights for improving chatbot usefulness, user experience, and conversion outcomes.

@@ -79,11 +79,28 @@ Responses are tagged using:
 
 The project includes the following visualisations:
 
-- ✅ **Rubric Score Distribution**
-- ✅ **Error Taxonomy Distribution**
-- ✅ **Response Quality by Intent**
-- ✅ **Response Quality by Category**
-- ✅ **Edge Case Analysis**
+### ✅ Rubric Score Distribution
+![Rubric Score Distribution](visuals/rubric_score_distribution.png)
+
+---
+
+### ✅ Error Taxonomy Distribution
+![Error Taxonomy Distribution](visuals/error_taxonomy_distribution.png)
+
+---
+
+### ✅ Response Quality by Intent
+![Response Quality by Intent](visuals/response_quality_by_intent.png)
+
+---
+
+### ✅ Response Quality by Category
+![Response Quality by Category](visuals/response_quality_by_category.png)
+
+---
+
+### ✅ Edge Case Analysis
+![Edge Case Analysis](visuals/edge_case_analysis.png)
 
 ---
 
